@@ -198,7 +198,7 @@ img {
   background-color: rgba(0, 0, 0, 0.678);
   background-size: 100%;
   position: fixed;
-  top: 0;
+  top: -6%;
   left: 0%;
   display: none;
   -webkit-box-align: center;
@@ -212,7 +212,7 @@ img {
 
 .ful-img span {
   position: absolute;
-  top: 5%;
+  top: 8%;
   right: 5%;
   font-size: 30px;
   color: #fff;
