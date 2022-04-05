@@ -1,0 +1,60 @@
+[
+  {
+    "nombre": "Ventana M12",
+    "precio": 13000,
+    "img": "ventana-corrediza.jpg",
+    "medida": "120x110",
+    "id": 0
+  },
+  {
+    "nombre": "Puerta M20",
+    "precio": 33000,
+    "img": "puerta-p20.jpg",
+    "medida": "80x200",
+    "id": 1
+  },
+  {
+    "nombre": "Puerta M6",
+    "precio": 35000,
+    "img": "puerta-p6.jpg",
+    "medida": "80x200",
+    "id": 2
+  },
+  {
+    "nombre": "Puerta M1",
+    "precio": 28000,
+    "img": "puerta-abrir-p1.jpg",
+    "medida": "80x200",
+    "id": 3
+  },
+  {
+    "nombre": "Postigo M13",
+    "precio": 35000,
+    "img": "postigo.jpg",
+    "medida": "120x110",
+    "id": 4
+  },
+  {
+    "nombre": "Puerta M16",
+    "precio": 33000,
+    "img": "puerta-abrir-p16.jpg",
+    "medida": "80x200",
+    "id": 5
+  },
+
+  {
+    "nombre": "Raja M18",
+    "precio": 30000,
+    "img": "raja-modelo-ingles-medio.jpg",
+    "medida": "60x30",
+    "id": 6
+  },
+
+  {
+    "nombre": "Puerta M23",
+    "precio": 33000,
+    "img": "puerta-abrir-p10.jpg",
+    "medida": "80x200",
+    "id": 7
+  }
+]
